@@ -2,6 +2,8 @@
 
 This is a small demo of a reactive site using flexbox, demonstrating a responsive layout with header, footer, sidebar, and main content area.
 
+🔗 [Live Demo](https://illuminum2.github.io/reactive-flexbox-demo/)
+
 ## How to Run
 
 1. **Clone the repository:**
